@@ -1075,3 +1075,6 @@ footer{
 .active {
     display: flex !important;
 }
+.d-none{
+    display: none;
+}

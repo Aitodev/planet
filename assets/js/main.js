@@ -167,4 +167,16 @@ window.addEventListener('DOMContentLoaded', function () {
     frame3.classList.add('hide')
   });
 
+
+
+
+
+
+
+
+
+  $('.how-start').on('click', function() {
+    $('.d-none').slideToggle();
+  })
+
 });
